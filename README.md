@@ -43,25 +43,25 @@ Here are some ideas to get you started:
 
 ### Fitures
 ```
-- Dump id teman
-- Dump id publik
-- Dump id reactions post
-- Dump id pencarian nama
-- Dump id postingan member group
-- Multi acc login ( menyimpan sessi login yg sebelumnya jadi tidak usah masukan cookies lg, selagi masih valid si cookiesnya )
-- Mutli type login
-   - Cokies
-   - User pass
-   - Token
+- crack Tanpa Log in 
+- SC Cepat Secepat Kilat
+- Script No Log in
 ```
 ### Install
 ```
-git clone https://github.com/Kwan-XD/Kwan-XD
-python -m pip install -r mbf/requirements.txt
-```
-### And run this script
-```
-cd mbf
-python run.py
+# INSTALL
+
+🖤[#c5f015](https://imgrp2.xiaolee.net/i/aHR0cHM6Ly9wbGFjZWhvbGQuaXQvMTUvYzVmMDE1LzAwMDAwMD90ZXh0PSs=.jpg) <b>`pkg update && pkg upgrade`
+
+🖤[#c5f015](https://imgrp2.xiaolee.net/i/aHR0cHM6Ly9wbGFjZWhvbGQuaXQvMTUvYzVmMDE1LzAwMDAwMD90ZXh0PSs=.jpg) `pkg install git`
+
+🖤[#c5f015](https://imgrp2.xiaolee.net/i/aHR0cHM6Ly9wbGFjZWhvbGQuaXQvMTUvYzVmMDE1LzAwMDAwMD90ZXh0PSs=.jpg) `pkg install python2`
+
+🖤[#c5f015](https://imgrp2.xiaolee.net/i/aHR0cHM6Ly9wbGFjZWhvbGQuaXQvMTUvYzVmMDE1LzAwMDAwMD90ZXh0PSs=.jpg) `git clone https://github.com/Kwan-XD/pro`
+
+🖤[#c5f015](https://imgrp2.xiaolee.net/i/aHR0cHM6Ly9wbGFjZWhvbGQuaXQvMTUvYzVmMDE1LzAwMDAwMD90ZXh0PSs=.jpg) `cd pro`
+
+🖤[#c5f015](https://imgrp2.xiaolee.net/i/aHR0cHM6Ly9wbGFjZWhvbGQuaXQvMTUvYzVmMDE1LzAwMDAwMD90ZXh0PSs=.jpg) `python2 pro.py`
+
 ```
 
