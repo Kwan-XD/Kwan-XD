@@ -43,25 +43,25 @@ Here are some ideas to get you started:
 
 ### Fitures
 ```
-- crack Tanpa Log in 
+- crack Cepat
 - SC Cepat Secepat Kilat
-- Script No Log in
+- Script Log in
 ```
 ### Install
 ```
 # INSTALL
 
-🖤[#c5f015](https://imgrp2.xiaolee.net/i/aHR0cHM6Ly9wbGFjZWhvbGQuaXQvMTUvYzVmMDE1LzAwMDAwMD90ZXh0PSs=.jpg) <b>`pkg update && pkg upgrade`
+<b>`pkg update && pkg upgrade`
 
-🖤[#c5f015](https://imgrp2.xiaolee.net/i/aHR0cHM6Ly9wbGFjZWhvbGQuaXQvMTUvYzVmMDE1LzAwMDAwMD90ZXh0PSs=.jpg) <b> `pkg install git`
+<b> `pkg install git`
 
-🖤[#c5f015](https://imgrp2.xiaolee.net/i/aHR0cHM6Ly9wbGFjZWhvbGQuaXQvMTUvYzVmMDE1LzAwMDAwMD90ZXh0PSs=.jpg) <b> `pkg install python2`
+<b> `pkg install python2`
 
-🖤[#c5f015](https://imgrp2.xiaolee.net/i/aHR0cHM6Ly9wbGFjZWhvbGQuaXQvMTUvYzVmMDE1LzAwMDAwMD90ZXh0PSs=.jpg) <b> git clone https://github.com/Kwan-XD/bnt`
+<b> git clone https://github.com/Kwan-XD/bnt`
 
-🖤[#c5f015](https://imgrp2.xiaolee.net/i/aHR0cHM6Ly9wbGFjZWhvbGQuaXQvMTUvYzVmMDE1LzAwMDAwMD90ZXh0PSs=.jpg) <b> `cd bnt`
+<b> cd bnt`
 
-🖤[#c5f015](https://imgrp2.xiaolee.net/i/aHR0cHM6Ly9wbGFjZWhvbGQuaXQvMTUvYzVmMDE1LzAwMDAwMD90ZXh0PSs=.jpg) <b> python2 bnt.py
+<b> python2 bnt.py
 
 ```
 
